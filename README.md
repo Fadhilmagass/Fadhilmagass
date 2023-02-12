@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadhilmagass" alt="fadhilmagass" /></a> </p>
 
-- 🔭 I’m currently working on [Quarkus - CRUD](https://github.com/Fadhilmagass/quarkus-crud-app)
+- 🔭 I’m currently working on [Discord BOT](https://github.com/Fadhilmagass/DJS.14)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **HTML, CSS & JavaScript**
+- 💬 Ask me about **HTML, CSS, PHP & JavaScript**
 
 - 📫 How to reach me **fadhilmagass@gmail.com**
 
